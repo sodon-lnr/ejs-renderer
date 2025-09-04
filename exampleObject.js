@@ -97,5 +97,5 @@ const costMonitoringUserObject = {
   notificationId: 'CM_NUMBERS_NUMBERS',
   notificationOrigin: 'Cost Monitoring',
   notificationDescription:
-    'Cost Monitoring (data land nikida/svc user) detected that users have passed the cost threshold',
+    'Cost Monitoring (data land user1/user2) detected that users have passed the cost threshold',
 };
